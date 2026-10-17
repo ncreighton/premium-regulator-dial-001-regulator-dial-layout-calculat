@@ -1,0 +1,2 @@
+# premium-regulator-dial-001-regulator-dial-layout-calculat
+Tired of manually calculating each pressure mark's position on your regulator dial, only to find misalignments when printed? The Regulator Dial Layout Calculator automates the exact angular placement for any range and dial size, turning hours of trigonometry into minutes.  This Notion template replaces error-prone manual calculations with a single
